@@ -3,8 +3,7 @@ using System;
 class MainClass {
   public static void Main (string[] args) {
 
-	 string myName;
-	 myName = "Jane";
+	 string myName = "Jane";
 
 	 Console.WriteLine(myName);
 	 
